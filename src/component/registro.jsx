@@ -81,7 +81,7 @@ const Registro = () => {
             <div className="container shadow">
                 <div className="row align-items-stretch">
                     <div className="col imagen d-none d-lg-block col-md-5 col-lg-5 col-xl-6" >
-dsfds
+
                     </div>
                     <div className="col col-xs-12 ">
                         <h2 className="text-center mb-3 mt-3"> Formulario Registro</h2>

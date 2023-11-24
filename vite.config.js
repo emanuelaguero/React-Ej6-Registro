@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react-swc'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:"/React-Ej3-maquetado-ecommerce/"
+  base:"/React-Ej6-Registro/"
 })
